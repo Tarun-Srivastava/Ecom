@@ -1,7 +1,7 @@
 Work in progress
 # E-Commerce Travel Website
 
-This is a sample e-commerce travel website built with React.js, styled-components, custom effects, and Material UI icons.
+This is a sample e-commerce website built with React.js, styled-components, custom effects, and Material UI icons.
 
 ## Table of Contents
 
